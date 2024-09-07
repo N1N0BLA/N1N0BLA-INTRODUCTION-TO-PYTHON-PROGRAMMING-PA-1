@@ -24,3 +24,7 @@ There was an error in this since Python could not comprehend what to do with the
 I also unbundled a short list in error and an error arose as there were not enough elements to fill "first", "middle", "last". 
 These mistakes were useful since they made me think about the size of the list am unpacking. 
 I realized the right thing after one entire code worked and I learned how Python managed to do that in such a short way.
+
+
+Comments inside the code helps in simplifying and understanding how the lines of code work. 
+First hand experience of using Python really makes C++ look tiresome due to writing several lines of code.
